@@ -1,0 +1,5 @@
+{
+  "name": "my-webhook-api",
+  "description": "Inbound webhook infrastructure: create endpoints, receive payloads, fan out to workflows.",
+  "version": "1.0.0"
+}

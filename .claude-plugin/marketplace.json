@@ -1,0 +1,19 @@
+{
+  "name": "myapi-skills",
+  "owner": {
+    "name": "MyAPI HQ",
+    "email": "r.mattesini@x80security.com"
+  },
+  "metadata": {
+    "description": "Skills for the MyAPI ecosystem — auth, organizations, and billing."
+  },
+  "plugins": [
+    {
+      "name": "my-api-hq",
+      "source": "./plugins/my-api-hq",
+      "description": "Core identity and billing hub. Manage auth, organizations, and billing.",
+      "category": "productivity",
+      "tags": ["api", "auth", "billing", "myapi"]
+    }
+  ]
+}

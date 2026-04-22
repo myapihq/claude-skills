@@ -1,0 +1,5 @@
+{
+  "name": "my-domain-api",
+  "description": "Domain registration and check with automated DNS and email infrastructure.",
+  "version": "1.0.0"
+}

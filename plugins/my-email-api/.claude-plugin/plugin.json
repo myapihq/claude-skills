@@ -1,0 +1,5 @@
+{
+  "name": "my-email-api",
+  "description": "Email infrastructure: mailbox creation, sending, reading, verification, and AI-powered templates.",
+  "version": "1.0.0"
+}

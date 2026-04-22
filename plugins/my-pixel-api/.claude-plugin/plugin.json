@@ -1,0 +1,5 @@
+{
+  "name": "my-pixel-api",
+  "description": "Pixel interaction data API: web visits, email events, and identity resolution.",
+  "version": "1.0.0"
+}

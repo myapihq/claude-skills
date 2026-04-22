@@ -1,0 +1,5 @@
+{
+  "name": "my-workflow-api",
+  "description": "Webhook-triggered workflow automation with trigger conditions, actions, and automatic retries.",
+  "version": "1.0.0"
+}

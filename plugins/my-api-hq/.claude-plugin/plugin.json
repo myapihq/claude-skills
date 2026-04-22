@@ -1,0 +1,5 @@
+{
+  "name": "my-api-hq",
+  "description": "Core identity and billing hub. Manage auth, organizations, and billing.",
+  "version": "1.0.0"
+}
